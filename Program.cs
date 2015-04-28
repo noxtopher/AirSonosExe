@@ -15,7 +15,9 @@ namespace AirSonos
 					process.Kill();
 					Console.WriteLine ("Testing Changes");
 					Console.WriteLine ("Testing Changes");
-
+					Console.WriteLine ("Testing Changes");
+					Console.WriteLine ("Testing Changes");
+					Console.WriteLine ("Testing Changes");
 				}
 				
 				var process2 = Process.Start ("cmd.exe", @"/c C:\Users\Screen\AppData\Roaming\npm\airsonos.cmd");

@@ -1,0 +1,5 @@
+C:\Users\chris\Documents\GitHub\AirSonosExe\bin\Release\AirSonos.exe
+C:\Users\chris\Documents\GitHub\AirSonosExe\bin\Release\AirSonos.pdb
+C:\Users\chris\Documents\GitHub\AirSonosExe\obj\x86\Release\AirSonos.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\AirSonosExe\obj\x86\Release\AirSonos.exe
+C:\Users\chris\Documents\GitHub\AirSonosExe\obj\x86\Release\AirSonos.pdb
