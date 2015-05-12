@@ -3,3 +3,8 @@
 /Users/chrisnock/Projects/AirSonos/AirSonos/bin/Release/AirSonos.exe
 /Users/chrisnock/Projects/AirSonos/AirSonos/obj/x86/Release/AirSonos.exe
 /Users/chrisnock/Projects/AirSonos/AirSonos/obj/x86/Release/AirSonos.exe.mdb
+/Users/chrisnock/Projects/AirSonosExe/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/chrisnock/Projects/AirSonosExe/bin/Release/AirSonos.exe.mdb
+/Users/chrisnock/Projects/AirSonosExe/bin/Release/AirSonos.exe
+/Users/chrisnock/Projects/AirSonosExe/obj/x86/Release/AirSonos.exe
+/Users/chrisnock/Projects/AirSonosExe/obj/x86/Release/AirSonos.exe.mdb
