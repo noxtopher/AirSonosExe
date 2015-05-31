@@ -13,9 +13,9 @@ namespace AirSonos
 				Process[] processes = Process.GetProcessesByName("cmd");
 				foreach (var process in processes) {
 					process.Kill();
-					Console.WriteLine ("Testing Changes");
-					Console.WriteLine ("Testing Changes");
-					Console.WriteLine ("Testing Changes");
+					Console.WriteLine ("Testing Chanhhhges");
+					Console.WriteLine ("Testing Chjjkkanhhges");
+					Console.WriteLine ("Testing Chanjjgdfdes");
 					Console.WriteLine ("Testing Cha23232323nges");
 					Console.WriteLine ("Testing 333");
 					Console.WriteLine ("Testing 32323232323232323");
