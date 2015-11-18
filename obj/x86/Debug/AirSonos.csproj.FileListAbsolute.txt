@@ -1,5 +1,0 @@
-C:\Users\nockc\Documents\GitHub\AirSonosExe\bin\Debug\AirSonos.exe
-C:\Users\nockc\Documents\GitHub\AirSonosExe\bin\Debug\AirSonos.pdb
-C:\Users\nockc\Documents\GitHub\AirSonosExe\obj\x86\Debug\AirSonos.csprojResolveAssemblyReference.cache
-C:\Users\nockc\Documents\GitHub\AirSonosExe\obj\x86\Debug\AirSonos.exe
-C:\Users\nockc\Documents\GitHub\AirSonosExe\obj\x86\Debug\AirSonos.pdb
